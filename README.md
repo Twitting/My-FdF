@@ -8,4 +8,4 @@ make
 ```shell
 ./fdf [file name] or
 ```
-![fdf.1](https://github.com/Twitting/Other/tree/master/img/fdf1.png)
+![fdf.1](https://github.com/Twitting/Other/blob/master/img/fdf1.png)
