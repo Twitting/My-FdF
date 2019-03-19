@@ -5,7 +5,7 @@
 > In this project I've discovered the basics of graphics programming,
 > created a visualizer of height maps, which parses map file, creates
 > a srtucture of points and shows it on screen, with ability to rotate,
-> change altitudes coefficient and so on.
+> change altitudes coefficient, zoom in and out and so on.
 
 
 ### how to install:
